@@ -14,3 +14,4 @@ I used a wide variety of models - Support Vector Machine, Decision Tree, Neural 
 
 ### Decision Tree 
 <insert img>
+Having a really good validation score, F1 score,
