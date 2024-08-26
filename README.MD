@@ -17,6 +17,7 @@ I used a wide variety of models - Support Vector Machine, Decision Tree, Neural 
 ! [workflow]
 
 [workflow] (https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/main/workflow.png) 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### Decision Tree 
 <insert img>
