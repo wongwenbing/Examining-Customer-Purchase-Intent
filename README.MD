@@ -22,4 +22,13 @@ A simple comparison used was comparing the misclassification. In comparing the m
 ![misclassification](https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/dc7112291d15c1fc5ba0ee634e63f4885bff2d46/model%20comparison%20misclassification.png)
 
 ### Decision Tree 
-Having a really good validation score, F1 score, it was crucial to examine the
+Having a really good validation score, F1 score, it was crucial to examine the curves.
+
+
+### Gradient Boosting
+Finally, the model selected was the Gradient Boosting Model. Gradient Boosting
+#### Lift Curve
+![lift](https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/main/lift%20curve.png)
+
+#### ROC Curve
+![roc](https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/main/roc%20curve.png)
