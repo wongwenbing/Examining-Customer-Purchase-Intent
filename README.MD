@@ -10,11 +10,16 @@ https://www.kaggle.com/datasets/rabieelkharoua/consumer-electronics-sales-datase
 
 ## Data Understanding and Data Preparation 
 Data Preparation was conducted in KNIME. with the workflow shown below
-![workflow](https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/main/workflow.png) 
+![workflow](https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/main/workflow.png)
+
+Mainly, the use of creating synthetic data through SMOTE was crucical in ensuring that the model can perform better with the larger amounts of data.
 
 ## Modelling
 I used a wide variety of models - Support Vector Machine, Decision Tree, Neural Network, Gradient Boosting to conduct the modelling. After which model comparison was used to examine the models. 
 
+A simple comparison used was comparing the misclassification. In comparing the misclassification, we can observe which model can classify the results **correctly**. 
+
+![misclassification](https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/dc7112291d15c1fc5ba0ee634e63f4885bff2d46/model%20comparison%20misclassification.png)
+
 ### Decision Tree 
-<insert img>
-Having a really good validation score, F1 score,
+Having a really good validation score, F1 score, it was crucial to examine the
