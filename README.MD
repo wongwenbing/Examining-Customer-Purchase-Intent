@@ -10,12 +10,10 @@ https://www.kaggle.com/datasets/rabieelkharoua/consumer-electronics-sales-datase
 
 ## Data Understanding and Data Preparation 
 Data Preparation was conducted in KNIME. with the workflow shown below
-
+![workflow](https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/main/workflow.png) 
 
 ## Modelling
-I used a wide variety of models - Support Vector Machine, Decision Tree, Neural Network, 
-
-image.png
+I used a wide variety of models - Support Vector Machine, Decision Tree, Neural Network, Gradient Boosting to conduct the modelling. After which model comparison was used to examine the models. 
 
 ### Decision Tree 
 <insert img>
