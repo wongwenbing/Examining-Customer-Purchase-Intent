@@ -15,7 +15,7 @@ Data Preparation was conducted in KNIME. with the workflow shown below
 ## Modelling
 I used a wide variety of models - Support Vector Machine, Decision Tree, Neural Network, 
 
-image.png
+https://github.com/wongwenbing/Examining-Customer-Purchase-Intent/blob/main/workflow.png 
 
 ### Decision Tree 
 <insert img>
